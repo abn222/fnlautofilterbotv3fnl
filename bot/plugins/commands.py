@@ -62,13 +62,13 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔔Join Main Channel🔔', url=f"{parkboyschat}"
+                                    '🔔Join Main Channel🔔', url="https://t.me/parkboyschat"
                                 )
                         ],
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Movies Updates 🔊', url=f"{parkboysinfo}"
+                                    '🔊 Movies Updates 🔊', url="https://t.me/parkboysinfo"
                                 )
                         ]
                     ]
